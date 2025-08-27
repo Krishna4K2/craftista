@@ -37,6 +37,12 @@ Craftista is not just an origami platform; it's a demonstration of modern web ap
 
 ![Craftista Architevture](docs/Craftista-Architecture-SchoolofDevops-CC-BY-NC-SA4.0.jpg "Craftista Architecture")
 
+### Detailed Architecture Diagrams
+
+For a comprehensive view of the microservices architecture and communication patterns:
+- **[Complete Microservices Architecture](docs/craftista-microservices-architecture.md)** - Detailed Mermaid diagram showing all services, databases, and communication flows
+- **[Service Communication Flow](docs/microservices-communication-flow.md)** - Focused diagram on request routing and inter-service communication
+
 ### Micro Service 01 - Frontend
 
 **Purpose**: 
